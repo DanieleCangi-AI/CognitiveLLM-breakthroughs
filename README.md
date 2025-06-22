@@ -1,2 +1,4 @@
-# CognitiveLLM-breakthroughs
-Scientific logs, prototypes, and analysis from the first observed emergence of Cognitive Divergence in LLMs under recursive human-AI interaction.
+## 📄 Documents
+
+- [Preprint – CognitiveLLM Breakthrough](./FCEU_D01_Preprint_CognitiveLLM.pdf)
+- [Scientific Manifesto – Divergent AI](./FCEU_D01_Manifesto_DivergentAI.pdf)
